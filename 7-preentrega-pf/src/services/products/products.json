@@ -1,0 +1,32 @@
+[
+    {
+      "nombre": "Robot-A",
+      "precio": 170,
+      "imgURL": "https://robohash.org/1",
+      "descripcion": "descripcion del producto ",
+      "codigo": "xxxa1",
+      "stock": 16,
+      "id": "4564654654654654654",
+      "timestamp": "132840298340892"
+    },
+    {
+      "nombre": "Robot-B",
+      "precio": 210,
+      "imgURL": "https://robohash.org/2",
+      "descripcion": "descripcion del producto ",
+      "codigo": "zzza2",
+      "stock": 10,
+      "id": "798465135654",
+      "timestamp": "3824782477292"
+    },
+    {
+      "nombre": "Robot-C",
+      "precio": 570,
+      "imgURL": "https://robohash.org/3",
+      "descripcion": "descripcion del producto ",
+      "codigo": "xzya3",
+      "stock": 15,
+      "id": "2131321321321321321",
+      "timestamp": "3473847"
+    }
+  ]
