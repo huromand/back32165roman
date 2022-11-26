@@ -1,4 +1,3 @@
-import 'dotenv/config'
 const express = require("express");
 const app = express();
 const path = require ('path');
@@ -52,6 +51,6 @@ app.get('/', (req, res) => {
 
 const PORT = process.env.SERVER_PORT || 3000;
 
-server.listen(PORT, () => {
+app.listen(PORT, () => {
     console.log(`Server up and running on port ${PORT}`)
 })
