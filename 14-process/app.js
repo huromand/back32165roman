@@ -39,3 +39,9 @@ app.use(function(err, req, res, next) {
 });
 
 module.exports = app;
+
+const PORT = process.env.SERVER_PORT || 3000;
+
+app.listen(PORT, () => {
+    console.log(`Server up and running on port ${PORT}`)
+})
